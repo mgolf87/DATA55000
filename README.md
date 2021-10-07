@@ -15,7 +15,7 @@ Lewis University Summer 2, 2021
 ##### MGolf_DATA55000_A4.ipynb (requires mlclass2.py; Advertising.csv; notMNIST_small.zip)
 ###### Week 4 Assignment - Linear Regression, Linear Discriminant, Logistic Regression: Manifold Learning (Kernelized PCA, Locally Linear Embedding, Isomap, Spectral Embedding/Laplacian Eigenmaps, t-SNE), 1D Regression (Least-Squares), 2D Polynomial Regression (Least-Squares), Parametric Classification, Logistic Regression, Softmax Regression, Keras, notMIST Data
 
-##### MGolf_DATA55000_A5.ipynb (requires Advertising.csv; kddcup.data_10_percent.csv; notMNIST_small.zip)
+##### MGolf_DATA55000_A5.ipynb (requires Advertising.csv; kddcup.data_10_percent.zip; notMNIST_small.zip)
 ###### Week 5 Assignment - Multilayered Perceptrons (MLP): Keras Model on notMNIST Data, MLP for Regression on Advertising Data, Logistic Regression on KDD Data, MLP on KDD Data
 
 ##### MGolf_DATA55000_A6.ipynb 
