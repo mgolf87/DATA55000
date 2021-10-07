@@ -9,7 +9,7 @@ Lewis University Summer 2, 2021
 ###### Week 2 Assignment - Bayesian Decision Theory: Perceptron, Iris Data, Adaline 2D, Dataset Cleaning, Missing Data, Handling Categorical Data, Mapping Ordinal Features, Encoding Class Labels, One-Hot Encoding on Nominal Features + Preprocessing + get_dummy(), Scikit-Learn, Gaussian Naive Bayes, TextBlob
 ##### MGolf_DATA55000_A3.ipynb (requires mlclass2.py; movie_data.zip; socialmedia-disaster-tweets-DFE.csv)
 ###### Week 3 Assignment - Parametric Classification and Dimensionality Reduction: Iris Data, Quadratic Discriminant Analysis, Linear Discriminant Analysis, Gaussian Naive Bayes, Sentiment Analysis, Stats, Bag of Words, Data -> Vectors, Training - Finding Sentiment, Dimensionality Reduction, Backward Selection, PCA, Total/Explained Variance, Disaster Detector
-##### MGolf_DATA55000_A4.ipynb (requires mlclass2.py; Advertising.csv; Auto.csv; notMNIST_small.zip)
+##### MGolf_DATA55000_A4.ipynb (requires mlclass2.py; Advertising.csv; notMNIST_small.zip)
 ###### Week 4 Assignment - Linear Regression, Linear Discriminant, Logistic Regression: Manifold Learning (Kernelized PCA, Locally Linear Embedding, Isomap, Spectral Embedding/Laplacian Eigenmaps, t-SNE), 1D Regression (Least-Squares), 2D Polynomial Regression (Least-Squares), Parametric Classification, Logistic Regression, Softmax Regression, Keras, notMIST Data
 ##### MGolf_DATA55000_A5.ipynb 
 ###### Week 5 Assignment:
