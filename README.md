@@ -34,3 +34,5 @@ Decision Trees and Voting Classifier (Logistic Regression, Random Forest, Naive 
 Week 8 Assignment:
 
 <br />
+#### * using_model_confusion_matrix.ipynb
+##### how to use a built model to make predictions and evaluate them
