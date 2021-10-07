@@ -1,4 +1,4 @@
-# DATA55000
+# DATA55000 - Course Title
 Lewis University Summer 2, 2021
 
 <br />
@@ -6,7 +6,7 @@ Lewis University Summer 2, 2021
 ##### MGolf_DATA55000_A1.ipynb 
 ###### Week 1 Assignment: Introduction, Perceptron, Decision Boundary, Adaline (Gradient Descent), Adaline (SGD)
 ##### MGolf_DATA55000_A2.ipynb 
-###### Week 2 Assignment:
+###### Week 2 Assignment: Bayesian Decision Theory, Perceptron, Iris Data, Adaline 2D, Dataset Cleaning, Missing Data, Handling Categorical Data, Mapping Ordinal Features, Encoding Class Labels, One-Hot Encoding on Nominal Features + Preprocessing + get_dummy(), Scikit-Learn, Gaussian Naive Bayes, TextBlob
 ##### MGolf_DATA55000_A3.ipynb 
 ###### Week 3 Assignment:
 ##### MGolf_DATA55000_A4.ipynb 
