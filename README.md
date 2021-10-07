@@ -3,7 +3,7 @@ Lewis University Summer 2, 2021
 
 <br />
 
-##### MGolf_DATA55000_A1.ipynb 
+##### Week 1 Assignment - Introduction: MGolf_DATA55000_A1.ipynb 
 ###### Week 1 Assignment - Introduction: Perceptron, Decision Boundary, Adaline (Gradient Descent), Adaline (SGD)
 
 ##### MGolf_DATA55000_A2.ipynb (requires mlclass.py)
