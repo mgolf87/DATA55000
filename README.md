@@ -4,7 +4,7 @@ Lewis University Summer 2, 2021
 <br />
 
 ### Week 1 Assignment - Introduction: MGolf_DATA55000_A1.ipynb 
-###### Perceptron, Decision Boundary, Adaline (Gradient Descent), Adaline (SGD)
+Perceptron, Decision Boundary, Adaline (Gradient Descent), Adaline (SGD)
 
 ### Week 2 Assignment - Bayesian Decision Theory: MGolf_DATA55000_A2.ipynb (requires mlclass.py)
 ###### Perceptron, Iris Data, Adaline 2D, Dataset Cleaning, Missing Data, Handling Categorical Data, Mapping Ordinal Features, Encoding Class Labels, One-Hot Encoding on Nominal Features + Preprocessing + get_dummy(), Scikit-Learn, Gaussian Naive Bayes, TextBlob
