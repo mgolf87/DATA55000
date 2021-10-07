@@ -1,4 +1,4 @@
-# DATA55000 - Course Title
+# DATA55000 - Supervised Machine Learning
 Lewis University Summer 2, 2021
 
 <br />
