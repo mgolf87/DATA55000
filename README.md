@@ -10,7 +10,7 @@ Lewis University Summer 2, 2021
 ###### Week 2 Assignment - Bayesian Decision Theory: Perceptron, Iris Data, Adaline 2D, Dataset Cleaning, Missing Data, Handling Categorical Data, Mapping Ordinal Features, Encoding Class Labels, One-Hot Encoding on Nominal Features + Preprocessing + get_dummy(), Scikit-Learn, Gaussian Naive Bayes, TextBlob
 
 ##### MGolf_DATA55000_A3.ipynb (requires mlclass2.py; movie_data.zip; socialmedia-disaster-tweets-DFE.csv)
-###### Week 3 Assignment - Parametric Classification and Dimensionality Reduction: Iris Data, Quadratic Discriminant Analysis, Linear Discriminant Analysis, Gaussian Naive Bayes, Sentiment Analysis, Stats, Bag of Words, Data -> Vectors, Training - Finding Sentiment, Dimensionality Reduction, Backward Selection, PCA, Total/Explained Variance, Disaster Detector
+###### Week 3 Assignment - Parametric Classification and Dimensionality Reduction: Iris Data, Quadratic Discriminant Analysis, Linear Discriminant Analysis, Gaussian Naive Bayes, Sentiment Analysis, Stats, Bag of Words, Data -> Vectors, Training - Finding Sentiment, Dimensionality Reduction, Backward Selection, PCA, Total/Explained Variance, Disaster Tweet Data Detector
 
 ##### MGolf_DATA55000_A4.ipynb (requires mlclass2.py; Advertising.csv; notMNIST_small.zip)
 ###### Week 4 Assignment - Linear Regression, Linear Discriminant, Logistic Regression: Manifold Learning (Kernelized PCA, Locally Linear Embedding, Isomap, Spectral Embedding/Laplacian Eigenmaps, t-SNE), 1D Regression (Least-Squares), 2D Polynomial Regression (Least-Squares), Parametric Classification, Logistic Regression, Softmax Regression, Keras, notMIST Data
@@ -18,8 +18,8 @@ Lewis University Summer 2, 2021
 ##### MGolf_DATA55000_A5.ipynb (requires Advertising.csv; kddcup.data_10_percent.zip; notMNIST_small.zip)
 ###### Week 5 Assignment - Multilayered Perceptrons (MLP): Keras Model on notMNIST Data, MLP for Regression on Advertising Data, Logistic Regression on KDD Data, MLP on KDD Data
 
-##### MGolf_DATA55000_A6.ipynb 
-###### Week 6 Assignment:
+##### MGolf_DATA55000_A6.ipynb (requires socialmedia-disaster-tweets-DFE.csv)
+###### Week 6 Assignment - Support Vector Machines (SVMs): Iris Data - SVMs (kernel = linear, rbf, poly), Disaster Tweet Data - Cosine Similarity SVM and Multinomial Naive Bayes
 
 ##### MGolf_DATA55000_A7.ipynb 
 ###### Week 7 Assignment:
