@@ -30,8 +30,9 @@ SVMs (kernel = linear, rbf, poly) on Iris Data, Cosine Similarity SVM and Multin
 #### (requires kddcup.data_10_percent.zip; Advertising.csv)
 Decision Trees and Voting Classifier (Logistic Regression, Random Forest, Naive Bayes, Ensemble) on Iris Data, Keras Decision Tree Classifier on KDD Data, Decision Tree Regression on Advertising Data
 
-### MGolf_DATA55000_A8.ipynb 
-Week 8 Assignment:
+### Week 8 Assignment - Final Project: MGolf_DATA55000_FinalProject.ipynb
+#### (requires mushrooms.csv)
+Contrasting Techniques of Keras Neural Network and Random Forest Classifier (Regression) on Mushroom Data 
 
 <br />
 
