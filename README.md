@@ -19,10 +19,10 @@ Lewis University Summer 2, 2021
 ###### Week 5 Assignment - Multilayered Perceptrons (MLP): Keras Model on notMNIST Data, MLP for Regression on Advertising Data, Logistic Regression on KDD Data, MLP on KDD Data
 
 ##### MGolf_DATA55000_A6.ipynb (requires socialmedia-disaster-tweets-DFE.csv; [optional: svm_gui.py])
-###### Week 6 Assignment - Support Vector Machines (SVMs): Iris Data - SVMs (kernel = linear, rbf, poly), Disaster Tweet Data - Cosine Similarity SVM and Multinomial Naive Bayes
+###### Week 6 Assignment - Support Vector Machines (SVMs): SVMs (kernel = linear, rbf, poly) on Iris Data, Cosine Similarity SVM and Multinomial Naive Bayes on Disaster Tweet Data
 
-##### MGolf_DATA55000_A7.ipynb 
-###### Week 7 Assignment:
+##### MGolf_DATA55000_A7.ipynb (requires kddcup.data_10_percent.zip; Advertising.csv)
+###### Week 7 Assignment - Decision Trees: Decision Trees and Voting Classifier (Logistic Regression, Random Forest, Naive Bayes, Ensemble) on Iris Data, Keras Decision Tree Classifier on KDD Data, Decision Tree Regression on Advertising Data
 
 ##### MGolf_DATA55000_A8.ipynb 
 ###### Week 8 Assignment:
