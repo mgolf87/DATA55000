@@ -18,7 +18,7 @@ Lewis University Summer 2, 2021
 ##### MGolf_DATA55000_A5.ipynb (requires Advertising.csv; kddcup.data_10_percent.zip; notMNIST_small.zip)
 ###### Week 5 Assignment - Multilayered Perceptrons (MLP): Keras Model on notMNIST Data, MLP for Regression on Advertising Data, Logistic Regression on KDD Data, MLP on KDD Data
 
-##### MGolf_DATA55000_A6.ipynb (requires socialmedia-disaster-tweets-DFE.csv)
+##### MGolf_DATA55000_A6.ipynb (requires socialmedia-disaster-tweets-DFE.csv; [optional: svm_gui.py])
 ###### Week 6 Assignment - Support Vector Machines (SVMs): Iris Data - SVMs (kernel = linear, rbf, poly), Disaster Tweet Data - Cosine Similarity SVM and Multinomial Naive Bayes
 
 ##### MGolf_DATA55000_A7.ipynb 
